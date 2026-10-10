@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  background-color: #dbdbdb;
+}
+
+td {
+  width: 24px;
+  height: 24px;
+}
